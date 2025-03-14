@@ -8,15 +8,15 @@ This project is fully written without any LLM/AI Support.
 
 ## Key Goals
 Our main goals are:
-    * Accounts
-    * Authentication with JSON-Webtokens
-    * Connection to the TMDb API
-    * Mobile Support
-    * Note Taking feature
-    * Ratings
-    * Recommendations based on preferred movies
-    * Watchlist
-    * Genre categorisation in combination with Tags
+- Accounts
+- Authentication with JSON-Webtokens
+- Connection to the TMDb API
+- Mobile Support
+- Note Taking feature
+- Ratings
+- Recommendations based on preferred movies
+- Watchlist
+- Genre categorisation in combination with Tags
 
 
 ## Contributers
